@@ -1,0 +1,3 @@
+/Users/aleksandrsuslin/CLionProjects/mode_practice/cmake-build-default/CMakeFiles/mode__practice.dir
+/Users/aleksandrsuslin/CLionProjects/mode_practice/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/aleksandrsuslin/CLionProjects/mode_practice/cmake-build-default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+0	371	1713218825306039621	CMakeFiles/mode__practice.dir/library.cpp.o	94854c4c809fbabb
+0	42	1713219156996593826	build.ninja	332414d64c40409
+3	249	1713219064090546743	CMakeFiles/mode__practice.dir/main.cpp.o	367cd1ca01b46d43
+249	268	1713219064112553000	libmode__practice.a	f78c9465a401cc8e
